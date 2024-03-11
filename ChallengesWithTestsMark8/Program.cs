@@ -6,9 +6,7 @@ namespace ChallengesWithTestsMark8
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello, world!");
-
-            var challenge = new ChallengesSet01();
+            Console.WriteLine("Hello, Teachers!");
         }
     }
 }
