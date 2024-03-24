@@ -7,6 +7,11 @@ namespace ChallengesWithTestsMark8
         static void Main(string[] args)
         {
             Console.WriteLine("Hello, Teachers!");
+
+            var test = new ChallengesSet05();
+
+            Console.WriteLine(test.GetNextNumberDivisibleByN(100, 5));
+
         }
     }
 }

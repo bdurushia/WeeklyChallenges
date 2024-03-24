@@ -75,6 +75,8 @@ namespace ChallengesWithTestsMark8
                 isNumber = true;
 
             return isNumber;
+
+            // it's not an int. It's a string. I need to make this one line.
         }
 
         public bool MajorityOfElementsInArrayAreNull(object[] objs)
